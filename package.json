@@ -1,0 +1,32 @@
+{
+  "name": "nnapp",
+  "version": "1.0.0",
+  "description": "Neural Networks Library",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SharmaAjay19/nnapp.git"
+  },
+  "keywords": [
+    "nnapp",
+    "neuralnetworks",
+    "machinelearning"
+  ],
+  "author": "Ajay Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SharmaAjay19/nnapp/issues"
+  },
+  "homepage": "https://github.com/SharmaAjay19/nnapp#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "brain": "^0.7.0",
+    "brain.js": "^1.0.0-rc.3",
+    "express": "^4.16.1",
+    "forever": "^0.15.3",
+    "forever-monitor": "^1.7.1"
+  }
+}
